@@ -20,7 +20,9 @@ Node中的js:
 3，性能
 
 浏览器中的js：
+
 （1）根据浏览器内核解析js；
 
 Node中的js：
+
 （1）nodejs是基于Chrome's JavaScript runtime，也就是说，实际上它是对GoogleV8引擎（应用于Google Chrome浏览器)进行了封装
