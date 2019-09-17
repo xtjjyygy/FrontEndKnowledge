@@ -1,4 +1,5 @@
 一，Node中的js和浏览器中的js区别
+
 1，区别：
 
 浏览器中的js：
@@ -15,6 +16,7 @@ Node中的js:
 （3）ECMAScript+后台操作的API（OS:操作系统，file文件系统，net网络系统，database数据库）
 
 2，相同点
+
 （1）语言基础都是ECMAScript；
 
 3，性能
